@@ -8,8 +8,8 @@
 
 | Платформа | Файл | Размер |
 | --- | --- | --- |
-| Windows 10/11 x64 | [Montazh-Studio-Windows.exe](../../releases/download/v1.0.0/Montazh-Studio-Windows.exe) | 165 МБ |
-| Android 6+ arm64 | [Montazh-Studio-Android.apk](../../releases/download/v1.0.0/Montazh-Studio-Android.apk) | 80 МБ |
+| Windows 10/11 x64 | [Montazh-Studio-Windows.exe](https://github.com/tenzidesingyt-cmd/montazh-studio/releases/download/v1.0.0/Montazh-Studio-Windows.exe) | 165 МБ |
+| Android 6+ arm64 | [Montazh-Studio-Android.apk](https://github.com/tenzidesingyt-cmd/montazh-studio/releases/download/v1.0.0/Montazh-Studio-Android.apk) | 80 МБ |
 
 Windows-версия портативная: скачайте и запустите, установка не нужна.
 
